@@ -1,0 +1,17 @@
+def generate_table(n):
+   print(n,"*1=",n*1)
+   print(n,"*1=",n*2)
+   print(n,"*1=",n*3)
+   print(n,"*1=",n*4)
+   print(n,"*1=",n*5)
+   print(n,"*1=",n*6)
+   print(n,"*1=",n*7)
+   print(n,"*1=",n*8)
+   print(n,"*1=",n*9)
+   print(n,"*1=",n*10)
+
+n = input("please enter a number :")
+n = int(n)
+generate_table(n)
+print(" ")
+generate_table(n+1)
