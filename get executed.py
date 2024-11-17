@@ -1,0 +1,5 @@
+print("hello world")
+print('oy ye')
+print('alsfjdn---')
+print('*' * 10)
+print('$' * 20)
